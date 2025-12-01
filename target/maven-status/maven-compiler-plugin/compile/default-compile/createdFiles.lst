@@ -1,0 +1,8 @@
+com\example\demo\Solution.class
+com\example\demo\HttpConfig.class
+com\example\demo\GenerateWebhookResponse.class
+com\example\demo\SolutionRepo.class
+com\example\demo\SubmitResponse.class
+com\example\demo\App.class
+com\example\demo\GenerateWebhookRequest.class
+com\example\demo\SubmitRequest.class
